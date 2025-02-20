@@ -1090,23 +1090,7 @@
                 "mistnost": "19"
             }
         },
-        {
-            "prijmeni": "Chourová",
-            "jmeno": "Petra",
-            "titul_pred": "Bc.",
-            "titul_za": null,
-            "odbor": "Odbor školství, kultury, sportu a památkové péče",
-            "tel_cislo": "+420416916180",
-            "email": "petra.chourova@litomerice.cz",
-            "funkce": "referentka státní památkové péče",
-            "dulezitost": null,
-            "cislo_mistnosti": "F03.19",
-            "lokace": {
-                "budova": "F",
-                "podlazi": "03",
-                "mistnost": "19"
-            }
-        },
+        
         {
             "prijmeni": "Choutková",
             "jmeno": "Ilona",
