@@ -768,6 +768,23 @@
             }
         },
         {
+            "prijmeni": "Fišerová",
+            "jmeno": "Světlana",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916314",
+            "email": "svetlana.fiserova@litomerice.cz",
+            "funkce": "přestupky",
+            "dulezitost": null,
+            "cislo_mistnosti": "F02.16",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "02",
+                "mistnost": "16"
+            }
+        },
+        {
             "prijmeni": "Frková",
             "jmeno": "Kamila",
             "titul_pred": null,
