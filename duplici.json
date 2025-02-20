@@ -1,0 +1,3508 @@
+{
+    "odbory": [
+        {
+            "nazev_odboru": "Útvar obrany a krizového řízení",
+            "org_slozka": "ne",
+            "adresa": "Mírové nám. 15/7",
+            "vedouci": "Ing. Radek Löwy"
+        },
+        {
+            "nazev_odboru": "Útvar kontroly a interního auditu",
+            "org_slozka": "ne",
+            "adresa": "Mírové nám. 15/7",
+            "vedouci": "Ing. Radek Löwy"
+        },
+        {
+            "nazev_odboru": "Útvar Zdravého města",
+            "org_slozka": "ne",
+            "adresa": "Mírové náměstí 16/8",
+            "vedouci": "Ing. Pavel Richter"
+        },
+        {
+            "nazev_odboru": "Útvar personální",
+            "org_slozka": "ne",
+            "adresa": "Mírové náměstí 15/7/2",
+            "vedouci": "Ing. Pavel Richter"
+        },
+        {
+            "nazev_odboru": "Odbor informačních a komunikačních technologií",
+            "org_slozka": "ne",
+            "adresa": "Mírové nám. 15/7",
+            "vedouci": "Bc. Jiří Hubálek"
+        },
+        {
+            "nazev_odboru": "Kancelář starosty a tajemníka",
+            "org_slozka": "ne",
+            "adresa": "Mírové nám. 15/7",
+            "vedouci": "Bc. Martina Skoková"
+        },
+        {
+            "nazev_odboru": "Odbor správní",
+            "org_slozka": "ne",
+            "adresa": "Mírové nám. 15/7",
+            "vedouci": "Ing. Jaroslav Lachman"
+        },
+        {
+            "nazev_odboru": "Obecní živnostenský úřad",
+            "org_slozka": "ne",
+            "adresa": "Mírové nám. 15/7",
+            "vedouci": "Ing. Marcela Škrancová"
+        },
+        {
+            "nazev_odboru": "Odbor sociálních věcí a zdravotnictví",
+            "org_slozka": "ne",
+            "adresa": "Mírové nám. 17",
+            "vedouci": "Ing.Bc. Renáta Jurková"
+        },
+        {
+            "nazev_odboru": "Stavební úřad",
+            "org_slozka": "ne",
+            "adresa": "Pekařská 2",
+            "vedouci": "Ing. arch. Dominik Miko"
+        },
+        {
+            "nazev_odboru": "Odbor ekonomický",
+            "org_slozka": "ne",
+            "adresa": "Mírové nám. 15/7",
+            "vedouci": "Ing. Iveta Zalabáková"
+        },
+        {
+            "nazev_odboru": "Odbor správy nemovitého majetku města",
+            "org_slozka": "ne",
+            "adresa": "Mírové nám. 15/7",
+            "vedouci": "Mgr. Václav Härting"
+        },
+        {
+            "nazev_odboru": "Odbor územního rozvoje",
+            "org_slozka": "ne",
+            "adresa": "Pekařská 114/2",
+            "vedouci": "Ing. Venuše Brunclíková MBA."
+        },
+        {
+            "nazev_odboru": "Odbor dopravy a silničního hospodářství",
+            "org_slozka": "ne",
+            "adresa": "Topolčianská 447/1",
+            "vedouci": "Bc. Jan Jakub"
+        },
+        {
+            "nazev_odboru": "Odbor životního prostředí",
+            "org_slozka": "ne",
+            "adresa": "Pekařská 114/2",
+            "vedouci": "Ing. Pavel Gryndler"
+        },
+        {
+            "nazev_odboru": "Odbor školství, kultury, sportu a památkové péče",
+            "org_slozka": "ne",
+            "adresa": "Pekařská 114/2",
+            "vedouci": "Mgr. Klára Moščicová"
+        },
+        {
+            "nazev_odboru": "Odbor komunikace, marketingu a cestovního ruchu",
+            "org_slozka": "ne",
+            "adresa": "Mírové nám. 15/7",
+            "vedouci": "Ing. Eva Břeňová"
+        }
+    ],
+    "zamestnanci": [
+        {
+            "prijmeni": "Adámek",
+            "jmeno": "Jan",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Obecní živnostenský úřad",
+            "tel_cislo": "+420416916196",
+            "email": "jan.adamek@litomerice.cz",
+            "funkce": "referent kontroly",
+            "dulezitost": null,
+            "cislo_mistnosti": "D04.12",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "04",
+                "mistnost": "12"
+            }
+        },
+        {
+            "prijmeni": "Adámek",
+            "jmeno": "Jiří",
+            "titul_pred": "Mgr.",
+            "titul_za": null,
+            "odbor": "Vedení města",
+            "tel_cislo": "+420416916208",
+            "email": "jiri.adamek@litomerice.cz",
+            "funkce": "2. místostarosta",
+            "dulezitost": null,
+            "cislo_mistnosti": "E01.15",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "01",
+                "mistnost": "15"
+            }
+        },
+        {
+            "prijmeni": "Adámková",
+            "jmeno": "Kateřina",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor správy nemovitého majetku města",
+            "tel_cislo": "+420416916154",
+            "email": "katerina.adamkova@litomerice.cz",
+            "funkce": "referentka ÚSN – předpis nájmu a služeb z bytů a prostor sloužích podnikání",
+            "dulezitost": null,
+            "cislo_mistnosti": "C04.28",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "04",
+                "mistnost": "28"
+            }
+        },
+        {
+            "prijmeni": "Aksenowá",
+            "jmeno": "Ivana",
+            "titul_pred": null,
+            "titul_za": "DiS.",
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916128",
+            "email": "ivana.aksenowa@litomerice.cz",
+            "funkce": "vedoucí oddělení sociální péče a komunitního plánování",
+            "dulezitost": null,
+            "cislo_mistnosti": "D02.08",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "02",
+                "mistnost": "08"
+            }
+        },
+        {
+            "prijmeni": "Andrášová",
+            "jmeno": "Hana",
+            "titul_pred": null,
+            "titul_za": "DiS.",
+            "odbor": "Obecní živnostenský úřad",
+            "tel_cislo": "+420416916192",
+            "email": "hana.andrasova@litomerice.cz",
+            "funkce": "referent registrace",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.23",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "23"
+            }
+        },
+        {
+            "prijmeni": "Barčík",
+            "jmeno": "Michal",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správy nemovitého majetku města",
+            "tel_cislo": "+420416916153",
+            "email": "michal.barcik@litomerice.cz",
+            "funkce": "referent správy nemovitostí",
+            "dulezitost": null,
+            "cislo_mistnosti": "C02.19",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "02",
+                "mistnost": "19"
+            }
+        },
+        {
+            "prijmeni": "Barčíková",
+            "jmeno": "Simona",
+            "titul_pred": "Mgr.",
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916322",
+            "email": "simona.barcikova@litomerice.cz",
+            "funkce": "sociální pracovnice OSPOD",
+            "dulezitost": null,
+            "cislo_mistnosti": "C04.10",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "04",
+                "mistnost": "10"
+            }
+        },
+        {
+            "prijmeni": "Bartoňová",
+            "jmeno": "Jiřina",
+            "titul_pred": null,
+            "titul_za": "DiS.",
+            "odbor": "Odbor životního prostředí",
+            "tel_cislo": "+420416916172",
+            "email": "jirina.bartonova@litomerice.cz",
+            "funkce": "vedoucí oddělení státní správy vodního hospodářství",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.25",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "25"
+            }
+        },
+        {
+            "prijmeni": "Bauerová",
+            "jmeno": "Iveta",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor územního rozvoje",
+            "tel_cislo": "+420416916116",
+            "email": "iveta.bauerova@litomerice.cz",
+            "funkce": "referent pro veřejné zakázky",
+            "dulezitost": null,
+            "cislo_mistnosti": "D03.23",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "03",
+                "mistnost": "23"
+            }
+        },
+        {
+            "prijmeni": "Baumruková",
+            "jmeno": "Lucie",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916215",
+            "email": "lucie.baumrukova@litomerice.cz",
+            "funkce": "přestupky",
+            "dulezitost": null,
+            "cislo_mistnosti": "C04.14",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "04",
+                "mistnost": "14"
+            }
+        },
+        {
+            "prijmeni": "Benešová",
+            "jmeno": "Kateřina",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916228",
+            "email": "katerina.benesova@litomerice.cz",
+            "funkce": "referent státní správy a samosprávy - komunitní plánování",
+            "dulezitost": null,
+            "cislo_mistnosti": "C04.29",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "04",
+                "mistnost": "29"
+            }
+        },
+        {
+            "prijmeni": "Benešová",
+            "jmeno": "Petra",
+            "titul_pred": "Mgr.",
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916125",
+            "email": "petra.benesova@litomerice.cz",
+            "funkce": "sociální pracovník pro seniory a zdravotně postižené",
+            "dulezitost": null,
+            "cislo_mistnosti": "B04.27",
+            "lokace": {
+                "budova": "B",
+                "podlazi": "04",
+                "mistnost": "27"
+            }
+        },
+        {
+            "prijmeni": "Benešová",
+            "jmeno": "Lenka",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916321",
+            "email": "lenka.benesova@litomerice.cz",
+            "funkce": "referent samosprávy - prevence kriminality",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.26",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "26"
+            }
+        },
+        {
+            "prijmeni": "Beranová",
+            "jmeno": "Renata",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916315",
+            "email": "renata.beranova@litomerice.cz",
+            "funkce": "referent občanských průkazů, cestovních dokladů, evidence obyvatel",
+            "dulezitost": null,
+            "cislo_mistnosti": "C01.18",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "01",
+                "mistnost": "18"
+            }
+        },
+        {
+            "prijmeni": "Bezděka",
+            "jmeno": "Libor",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Stavební úřad",
+            "tel_cislo": "+420416916138",
+            "email": "libor.bezdeka@litomerice.cz",
+            "funkce": "zástupce vedoucího,územní rozhodování",
+            "dulezitost": null,
+            "cislo_mistnosti": "E01.17",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "01",
+                "mistnost": "17"
+            }
+        },
+        {
+            "prijmeni": "Bíbrlík",
+            "jmeno": "Tereza",
+            "titul_pred": "Mgr.",
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916336",
+            "email": "tereza.bibrlik@litomerice.cz",
+            "funkce": "sociální pracovnice OSPOD - dohody PP",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.22",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "22"
+            }
+        },
+        {
+            "prijmeni": "Blecha",
+            "jmeno": "Václav",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor územního rozvoje",
+            "tel_cislo": "+420416916163",
+            "email": "vaclav.blecha@litomerice.cz",
+            "funkce": "investiční technik, technik služeb TSM",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.09",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "09"
+            }
+        },
+        {
+            "prijmeni": "Bouček",
+            "jmeno": "Michal ",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor životního prostředí",
+            "tel_cislo": "+420416916171",
+            "email": "michal.boucek@litomerice.cz",
+            "funkce": "referent státní správy vodního hospodářství",
+            "dulezitost": null,
+            "cislo_mistnosti": "C04.07",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "04",
+                "mistnost": "07"
+            }
+        },
+        {
+            "prijmeni": "Brožová",
+            "jmeno": "Lenka",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor životního prostředí",
+            "tel_cislo": "+420416916178",
+            "email": "lenka.brozova@litomerice.cz",
+            "funkce": "zástupce vedoucího, městská zeleň",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.21",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "21"
+            }
+        },
+        {
+            "prijmeni": "Brunclíková",
+            "jmeno": "Venuše",
+            "titul_pred": "Ing.",
+            "titul_za": "MBA.",
+            "odbor": "Odbor územního rozvoje",
+            "tel_cislo": "+420416916169",
+            "email": "venuse.brunclikova@litomerice.cz",
+            "funkce": "vedoucí odboru",
+            "dulezitost": null,
+            "cislo_mistnosti": "D04.23",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "04",
+                "mistnost": "23"
+            }
+        },
+        {
+            "prijmeni": "Břeňová",
+            "jmeno": "Eva",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor komunikace, marketingu a cestovního ruchu",
+            "tel_cislo": "+420416916441",
+            "email": "eva.brenova@litomerice.cz",
+            "funkce": "vedoucí odboru",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.30",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Březinová",
+            "jmeno": "Eva",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Stavební úřad",
+            "tel_cislo": "+420416916133",
+            "email": "eva.brezinova@litomerice.cz",
+            "funkce": "stavebně správní referent",
+            "dulezitost": null,
+            "cislo_mistnosti": "B04.18",
+            "lokace": {
+                "budova": "B",
+                "podlazi": "04",
+                "mistnost": "18"
+            }
+        },
+        {
+            "prijmeni": "Coufalová",
+            "jmeno": "Vladislava",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Útvar personální",
+            "tel_cislo": "+420416916141",
+            "email": "vladislava.coufalova@litomerice.cz",
+            "funkce": "mzdová účtárna, PaM",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.18",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "18"
+            }
+        },
+        {
+            "prijmeni": "Čapková",
+            "jmeno": "Monika",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor informačních a komunikačních technologií",
+            "tel_cislo": "+420734282027",
+            "email": "monika.capkova@litomerice.cz",
+            "funkce": "administrativa",
+            "dulezitost": null,
+            "cislo_mistnosti": "D02.04",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "02",
+                "mistnost": "04"
+            }
+        },
+        {
+            "prijmeni": "Čech",
+            "jmeno": "Roman",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor informačních a komunikačních technologií",
+            "tel_cislo": "+420416916312",
+            "email": "roman.cech@litomerice.cz",
+            "funkce": "informatik",
+            "dulezitost": null,
+            "cislo_mistnosti": "C04.19",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "04",
+                "mistnost": "19"
+            }
+        },
+        {
+            "prijmeni": "Čechová",
+            "jmeno": "Kateřina",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916311",
+            "email": "katerina.cechova@litomerice.cz",
+            "funkce": "podatelna",
+            "dulezitost": null,
+            "cislo_mistnosti": "E04.30",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "04",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Čepička",
+            "jmeno": "Jiří ",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor komunikace, marketingu a cestovního ruchu",
+            "tel_cislo": "+420771522530",
+            "email": "jiri.cepicka@litomerice.cz",
+            "funkce": "odborný pracovník projektu Synergys",
+            "dulezitost": null,
+            "cislo_mistnosti": "E03.16",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "03",
+                "mistnost": "16"
+            }
+        },
+        {
+            "prijmeni": "Černá",
+            "jmeno": "Lenka",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správy nemovitého majetku města",
+            "tel_cislo": "+420416916156",
+            "email": "lenka.cerna@litomerice.cz",
+            "funkce": "vyúčtování služeb",
+            "dulezitost": null,
+            "cislo_mistnosti": "E04.26",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "04",
+                "mistnost": "26"
+            }
+        },
+        {
+            "prijmeni": "Černý",
+            "jmeno": "Jan",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor informačních a komunikačních technologií",
+            "tel_cislo": "+420416916404",
+            "email": "jan.cerny@litomerice.cz",
+            "funkce": "informatik",
+            "dulezitost": null,
+            "cislo_mistnosti": "E04.12",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "04",
+                "mistnost": "12"
+            }
+        },
+        {
+            "prijmeni": "Danišová",
+            "jmeno": "Kateřina",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Kancelář starosty a tajemníka",
+            "tel_cislo": "+420416916407",
+            "email": "katerina.danisova@litomerice.cz",
+            "funkce": "referent vymáhání pohledávek",
+            "dulezitost": null,
+            "cislo_mistnosti": "B01.27",
+            "lokace": {
+                "budova": "B",
+                "podlazi": "01",
+                "mistnost": "27"
+            }
+        },
+        {
+            "prijmeni": "Dobešová",
+            "jmeno": "Denisa",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916324",
+            "email": "denisa.dobesova@litomerice.cz",
+            "funkce": "náhradní rodinná péče, sociálně právní ochrana dětí",
+            "dulezitost": null,
+            "cislo_mistnosti": "E02.08",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "02",
+                "mistnost": "08"
+            }
+        },
+        {
+            "prijmeni": "Dojčinovičová",
+            "jmeno": "Bohdana",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Útvar personální",
+            "tel_cislo": "+420416916140",
+            "email": "bohdana.dojcinovicova@litomerice.cz",
+            "funkce": "mzdová účtárna, PaM",
+            "dulezitost": null,
+            "cislo_mistnosti": "E03.08",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "03",
+                "mistnost": "08"
+            }
+        },
+        {
+            "prijmeni": "Doležal",
+            "jmeno": "Jaroslav",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916523",
+            "email": "jaroslav.dolezal@litomerice.cz",
+            "funkce": "referent registru silničních vozidel - technik",
+            "dulezitost": null,
+            "cislo_mistnosti": "E03.17",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "03",
+                "mistnost": "17"
+            }
+        },
+        {
+            "prijmeni": "Ducká",
+            "jmeno": "Jaroslava",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Stavební úřad",
+            "tel_cislo": "+420416916417",
+            "email": "jaroslava.ducka@litomerice.cz",
+            "funkce": "stavebně správní referent",
+            "dulezitost": null,
+            "cislo_mistnosti": "E02.29",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "02",
+                "mistnost": "29"
+            }
+        },
+        {
+            "prijmeni": "Dytrychová",
+            "jmeno": "Eva",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor ekonomický",
+            "tel_cislo": "+420416916143",
+            "email": "eva.dytrychova@litomerice.cz",
+            "funkce": "hlavní účetní",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.28",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "28"
+            }
+        },
+        {
+            "prijmeni": "Ečerová",
+            "jmeno": "Lenka",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916533",
+            "email": "lenka.ecerova@litomerice.cz",
+            "funkce": "matrikářka",
+            "dulezitost": null,
+            "cislo_mistnosti": "D02.21",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "02",
+                "mistnost": "21"
+            }
+        },
+        {
+            "prijmeni": "Faltová",
+            "jmeno": "Pavlína",
+            "titul_pred": "Bc.",
+            "titul_za": "DiS.",
+            "odbor": "Odbor správy nemovitého majetku města",
+            "tel_cislo": "+420416916157",
+            "email": "pavlina.faltova@litomerice.cz",
+            "funkce": "vymáhání pohledávek",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.22",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "22"
+            }
+        },
+        {
+            "prijmeni": "Fengl",
+            "jmeno": "Lukáš",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor informačních a komunikačních technologií",
+            "tel_cislo": "+420416916414",
+            "email": "lukas.fengl@litomerice.cz",
+            "funkce": "informatik",
+            "dulezitost": null,
+            "cislo_mistnosti": "B03.14",
+            "lokace": {
+                "budova": "B",
+                "podlazi": "03",
+                "mistnost": "14"
+            }
+        },
+        {
+            "prijmeni": "Fialová",
+            "jmeno": "Jana",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správy nemovitého majetku města",
+            "tel_cislo": "+420416916255",
+            "email": "jana.fialova@litomerice.cz",
+            "funkce": "pozemky - pronájem, prodej",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.20",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "20"
+            }
+        },
+        {
+            "prijmeni": "Frková",
+            "jmeno": "Kamila",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor ekonomický",
+            "tel_cislo": "+420416916142",
+            "email": "kamila.frkova@litomerice.cz",
+            "funkce": "správce daní a poplatků",
+            "dulezitost": null,
+            "cislo_mistnosti": "E04.29",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "04",
+                "mistnost": "29"
+            }
+        },
+        {
+            "prijmeni": "Gašpárková",
+            "jmeno": "Monika",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916316",
+            "email": "monika.gasparkova@litomerice.cz",
+            "funkce": "referent občanských průkazů, cestovních dokladů, evidence obyvatel",
+            "dulezitost": null,
+            "cislo_mistnosti": "E02.30",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "02",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Gmitterová",
+            "jmeno": "Lenka",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Stavební úřad",
+            "tel_cislo": "+420416916137",
+            "email": "lenka.gmitterova@litomerice.cz",
+            "funkce": "ekonom, administrativa",
+            "dulezitost": null,
+            "cislo_mistnosti": "B04.20",
+            "lokace": {
+                "budova": "B",
+                "podlazi": "04",
+                "mistnost": "20"
+            }
+        },
+        {
+            "prijmeni": "Gryndler",
+            "jmeno": "Pavel",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor životního prostředí",
+            "tel_cislo": "+420416916179",
+            "email": "pavel.gryndler@litomerice.cz",
+            "funkce": "vedoucí odboru",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.25",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "25"
+            }
+        },
+        {
+            "prijmeni": "Hájková",
+            "jmeno": "Jitka",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor životního prostředí",
+            "tel_cislo": "+420416916175",
+            "email": "jitka.hajkova@litomerice.cz",
+            "funkce": "referent samosprávy odpadového hospodářství a státní správy ochrany zvířat proti týrání",
+            "dulezitost": null,
+            "cislo_mistnosti": "D04.04",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "04",
+                "mistnost": "04"
+            }
+        },
+        {
+            "prijmeni": "Halmlová ",
+            "jmeno": "Stanislava ",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor školství, kultury, sportu a památkové péče",
+            "tel_cislo": "+420416916186",
+            "email": "stanislava.halmlova@litomerice.cz",
+            "funkce": "referent školství pro státní správu",
+            "dulezitost": null,
+            "cislo_mistnosti": "F02.30",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "02",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Härting",
+            "jmeno": "Václav",
+            "titul_pred": "Mgr.",
+            "titul_za": null,
+            "odbor": "Odbor správy nemovitého majetku města",
+            "tel_cislo": "+420416916259",
+            "email": "vaclav.harting@litomerice.cz",
+            "funkce": "vedoucí odboru",
+            "dulezitost": null,
+            "cislo_mistnosti": "E03.11",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "03",
+                "mistnost": "11"
+            }
+        },
+        {
+            "prijmeni": "Hattová",
+            "jmeno": "Jana",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor komunikace, marketingu a cestovního ruchu",
+            "tel_cislo": "+420416916557",
+            "email": "jana.hattova@litomerice.cz",
+            "funkce": "marketingová manažerka",
+            "dulezitost": null,
+            "cislo_mistnosti": "C02.29",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "02",
+                "mistnost": "29"
+            }
+        },
+        {
+            "prijmeni": "Havelková",
+            "jmeno": "Jana",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916317",
+            "email": "jana.havelkova@litomerice.cz",
+            "funkce": "referent občanských průkazů, cestovních dokladů, evidence obyvatel",
+            "dulezitost": null,
+            "cislo_mistnosti": "E02.29",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "02",
+                "mistnost": "29"
+            }
+        },
+        {
+            "prijmeni": "Heřmanovská",
+            "jmeno": "Anna",
+            "titul_pred": null,
+            "titul_za": "DiS.",
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916329",
+            "email": "anna.hermanovska@litomerice.cz",
+            "funkce": "sociální pracovník OSPOD",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.19",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "19"
+            }
+        },
+        {
+            "prijmeni": "Hillmer",
+            "jmeno": "David",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor správy nemovitého majetku města",
+            "tel_cislo": "+420416916152",
+            "email": "david.hillmer@litomerice.cz",
+            "funkce": "bytový technik + správce SW E-manager",
+            "dulezitost": null,
+            "cislo_mistnosti": "D02.14",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "02",
+                "mistnost": "14"
+            }
+        },
+        {
+            "prijmeni": "Hohenberger",
+            "jmeno": "Jiří",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Stavební úřad",
+            "tel_cislo": "+420416916135",
+            "email": "jiri.hohenberger@litomerice.cz",
+            "funkce": "stavebně správní referent",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.15",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "15"
+            }
+        },
+        {
+            "prijmeni": "Hohenbergerová",
+            "jmeno": "Ivona",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor školství, kultury, sportu a památkové péče",
+            "tel_cislo": "+420416916183",
+            "email": "ivona.hohenbergerova@litomerice.cz",
+            "funkce": "referent státní památkové péče",
+            "dulezitost": null,
+            "cislo_mistnosti": "F02.12",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "02",
+                "mistnost": "12"
+            }
+        },
+        {
+            "prijmeni": "Hönigová",
+            "jmeno": "Romana ",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor správy nemovitého majetku města",
+            "tel_cislo": "+420416916158",
+            "email": "romana.honigova@litomerice.cz",
+            "funkce": "energetický manažer",
+            "dulezitost": null,
+            "cislo_mistnosti": "E04.22",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "04",
+                "mistnost": "22"
+            }
+        },
+        {
+            "prijmeni": "Horká",
+            "jmeno": "Michala",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor územního rozvoje",
+            "tel_cislo": "+420416916408",
+            "email": "michala.horka@litomerice.cz",
+            "funkce": "projektový manažer, inženýring",
+            "dulezitost": null,
+            "cislo_mistnosti": "E04.30",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "04",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Hospůdková",
+            "jmeno": "Jiřina",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916226",
+            "email": "jirina.hospudkova@litomerice.cz",
+            "funkce": "veřejný opatrovník, referent státní správy a samosprávy",
+            "dulezitost": null,
+            "cislo_mistnosti": "D02.11",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "02",
+                "mistnost": "11"
+            }
+        },
+        {
+            "prijmeni": "Hříbalová",
+            "jmeno": "Jana",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916113",
+            "email": "jana.hribalova@litomerice.cz",
+            "funkce": "matrikářka",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.19",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "19"
+            }
+        },
+        {
+            "prijmeni": "Hubálek",
+            "jmeno": "Jiří",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor informačních a komunikačních technologií",
+            "tel_cislo": "+420416916412",
+            "email": "jiri.hubalek@litomerice.cz",
+            "funkce": "vedoucí odboru",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.19",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "19"
+            }
+        },
+        {
+            "prijmeni": "Hubálková",
+            "jmeno": "Helena",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor územního rozvoje",
+            "tel_cislo": "+420416916444",
+            "email": "helena.hubalkova@litomerice.cz",
+            "funkce": "referent územního plánování",
+            "dulezitost": null,
+            "cislo_mistnosti": "C02.19",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "02",
+                "mistnost": "19"
+            }
+        },
+        {
+            "prijmeni": "Chourová",
+            "jmeno": "Petra",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor školství, kultury, sportu a památkové péče",
+            "tel_cislo": "+420416916180",
+            "email": "petra.chourova@litomerice.cz",
+            "funkce": "referentka státní památkové péče",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.19",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "19"
+            }
+        },
+        {
+            "prijmeni": "Choutková",
+            "jmeno": "Ilona",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916423",
+            "email": "ilona.choutkova@litomerice.cz",
+            "funkce": "kurátorka pro děti a mládež",
+            "dulezitost": null,
+            "cislo_mistnosti": "B04.23",
+            "lokace": {
+                "budova": "B",
+                "podlazi": "04",
+                "mistnost": "23"
+            }
+        },
+        {
+            "prijmeni": "Chrudimská",
+            "jmeno": "Hana",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916126",
+            "email": "hana.chrudimska@litomerice.cz",
+            "funkce": "hospodaření a administrativa odboru",
+            "dulezitost": null,
+            "cislo_mistnosti": "C04.10",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "04",
+                "mistnost": "10"
+            }
+        },
+        {
+            "prijmeni": "Chrudimská",
+            "jmeno": "Eva",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Kancelář starosty a tajemníka",
+            "tel_cislo": "+420416916107",
+            "email": "eva.chrudimska@litomerice.cz",
+            "funkce": "asistentka starosty a tajemníka",
+            "dulezitost": null,
+            "cislo_mistnosti": "E04.11",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "04",
+                "mistnost": "11"
+            }
+        },
+        {
+            "prijmeni": "Jakub",
+            "jmeno": "Jan",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916509",
+            "email": "jan.jakub@litomerice.cz",
+            "funkce": "vedoucí odboru",
+            "dulezitost": null,
+            "cislo_mistnosti": "E04.24",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "04",
+                "mistnost": "24"
+            }
+        },
+        {
+            "prijmeni": "Jakubová",
+            "jmeno": "Lenka",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916511",
+            "email": "lenka.jakubova@litomerice.cz",
+            "funkce": "hospodaření a administrativa odboru",
+            "dulezitost": null,
+            "cislo_mistnosti": "C02.07",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "02",
+                "mistnost": "07"
+            }
+        },
+        {
+            "prijmeni": "Jančurová ",
+            "jmeno": "Anna ",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor komunikace, marketingu a cestovního ruchu",
+            "tel_cislo": "+420416916540",
+            "email": "anna.jancurova@litomerice.cz",
+            "funkce": "marketingová manažerka",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.23",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "23"
+            }
+        },
+        {
+            "prijmeni": "Jaroš",
+            "jmeno": "Jan",
+            "titul_pred": "Mgr.",
+            "titul_za": null,
+            "odbor": "Odbor informačních a komunikačních technologií",
+            "tel_cislo": "+420416916112",
+            "email": "jan.jaros@litomerice.cz",
+            "funkce": "Správce GIS",
+            "dulezitost": null,
+            "cislo_mistnosti": "D02.04",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "02",
+                "mistnost": "04"
+            }
+        },
+        {
+            "prijmeni": "Jilichová",
+            "jmeno": "Lenka",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916555",
+            "email": "lenka.jilichova@litomerice.cz",
+            "funkce": "metodik spisové služby",
+            "dulezitost": null,
+            "cislo_mistnosti": "E02.29",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "02",
+                "mistnost": "29"
+            }
+        },
+        {
+            "prijmeni": "Jindřichová",
+            "jmeno": "Lenka",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správy nemovitého majetku města",
+            "tel_cislo": "+420416916258",
+            "email": "lenka.jindrichova@litomerice.cz",
+            "funkce": "pozemky - pronájem, prodej",
+            "dulezitost": null,
+            "cislo_mistnosti": "D04.08",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "04",
+                "mistnost": "08"
+            }
+        },
+        {
+            "prijmeni": "Jurková",
+            "jmeno": "Renáta",
+            "titul_pred": "Ing.Bc.",
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916129",
+            "email": "renata.jurkova@litomerice.cz",
+            "funkce": "vedoucí odboru",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.20",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "20"
+            }
+        },
+        {
+            "prijmeni": "Jůva",
+            "jmeno": "Lukáš",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916522",
+            "email": "lukas.juva@litomerice.cz",
+            "funkce": "referent silničního hospodářství – technik",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.16",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "16"
+            }
+        },
+        {
+            "prijmeni": "Kastlová",
+            "jmeno": "Carmen",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Kancelář starosty a tajemníka",
+            "tel_cislo": "+420416916307",
+            "email": "carmen.kastlova@litomerice.cz",
+            "funkce": "referent vymáhání pohledávek",
+            "dulezitost": null,
+            "cislo_mistnosti": "E02.14",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "02",
+                "mistnost": "14"
+            }
+        },
+        {
+            "prijmeni": "Katzerová",
+            "jmeno": "Radka",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor ekonomický",
+            "tel_cislo": "+420416916241",
+            "email": "radka.somrova@litomerice.cz",
+            "funkce": "správce daní a poplatků",
+            "dulezitost": null,
+            "cislo_mistnosti": "C03.24",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "03",
+                "mistnost": "24"
+            }
+        },
+        {
+            "prijmeni": "Kellerová",
+            "jmeno": "Petra",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Stavební úřad",
+            "tel_cislo": "+420416916134",
+            "email": "petra.kellerova@litomerice.cz",
+            "funkce": "stavebně správní referent",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.30",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Klofáčová",
+            "jmeno": "Pavlína",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916421",
+            "email": "pavlina.klofacova@litomerice.cz",
+            "funkce": "kurátorka pro děti a mládež",
+            "dulezitost": null,
+            "cislo_mistnosti": "D03.22",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "03",
+                "mistnost": "22"
+            }
+        },
+        {
+            "prijmeni": "Kmochová",
+            "jmeno": "Radka",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916326",
+            "email": "radka.kmochova@litomerice.cz",
+            "funkce": "sociální pracovnice OSPOD",
+            "dulezitost": null,
+            "cislo_mistnosti": "C01.13",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "01",
+                "mistnost": "13"
+            }
+        },
+        {
+            "prijmeni": "Knotková",
+            "jmeno": "Lucie",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Obecní živnostenský úřad",
+            "tel_cislo": "+420416916195",
+            "email": "lucie.knotkova@litomerice.cz",
+            "funkce": "referent kontroly",
+            "dulezitost": null,
+            "cislo_mistnosti": "D03.15",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "03",
+                "mistnost": "15"
+            }
+        },
+        {
+            "prijmeni": "Kojičová",
+            "jmeno": "Iveta",
+            "titul_pred": null,
+            "titul_za": "DiS.",
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916323",
+            "email": "iveta.kojicova@litomerice.cz",
+            "funkce": "sociální pracovnice OSPOD",
+            "dulezitost": null,
+            "cislo_mistnosti": "F02.19",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "02",
+                "mistnost": "19"
+            }
+        },
+        {
+            "prijmeni": "Kolář",
+            "jmeno": "Vladimír",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správy nemovitého majetku města",
+            "tel_cislo": "+420734783337",
+            "email": "vladimir.kolar@litomerice.cz",
+            "funkce": "vedoucí Oddělění lesního hospodářství ",
+            "dulezitost": null,
+            "cislo_mistnosti": "D04.29",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "04",
+                "mistnost": "29"
+            }
+        },
+        {
+            "prijmeni": "Kolařík",
+            "jmeno": "Pavel",
+            "titul_pred": "PhDr.",
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916120",
+            "email": "pavel.kolarik@litomerice.cz",
+            "funkce": " sociální pracovník",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.25",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "25"
+            }
+        },
+        {
+            "prijmeni": "Kolbaba",
+            "jmeno": "Vladimír",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor územního rozvoje",
+            "tel_cislo": "+420416916164",
+            "email": "vladimir.kolbaba@litomerice.cz",
+            "funkce": "vedoucí oddělení investic",
+            "dulezitost": null,
+            "cislo_mistnosti": "B04.30",
+            "lokace": {
+                "budova": "B",
+                "podlazi": "04",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Koňaříková",
+            "jmeno": "Jana",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916114",
+            "email": "jana.konarikova@litomerice.cz",
+            "funkce": "přestupky",
+            "dulezitost": null,
+            "cislo_mistnosti": "C01.25",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "01",
+                "mistnost": "25"
+            }
+        },
+        {
+            "prijmeni": "Kopecká",
+            "jmeno": "Iveta",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916335",
+            "email": "iveta.kopecka@litomerice.cz",
+            "funkce": "sociální pracovnice OSPOD",
+            "dulezitost": null,
+            "cislo_mistnosti": "E01.28",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "01",
+                "mistnost": "28"
+            }
+        },
+        {
+            "prijmeni": "Kopecký",
+            "jmeno": "Miroslav ",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor územního rozvoje",
+            "tel_cislo": "+420416916162",
+            "email": "miroslav.kopecky@litomerice.cz",
+            "funkce": "referent územního plánování",
+            "dulezitost": null,
+            "cislo_mistnosti": "D03.23",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "03",
+                "mistnost": "23"
+            }
+        },
+        {
+            "prijmeni": "Kopřivová",
+            "jmeno": "Kristýna",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor správy nemovitého majetku města",
+            "tel_cislo": "+420416916252",
+            "email": "kristyna.koprivova@litomerice.cz",
+            "funkce": "hospodaření, administrativa",
+            "dulezitost": null,
+            "cislo_mistnosti": "D02.17",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "02",
+                "mistnost": "17"
+            }
+        },
+        {
+            "prijmeni": "Kovařík",
+            "jmeno": "Jan ",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916521",
+            "email": "jan.kovarik@litomerice.cz",
+            "funkce": "referent silničního hospodářství – technik",
+            "dulezitost": null,
+            "cislo_mistnosti": "C02.24",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "02",
+                "mistnost": "24"
+            }
+        },
+        {
+            "prijmeni": "Kovářová",
+            "jmeno": "Ludmila",
+            "titul_pred": "Mgr.",
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916332",
+            "email": "ludmila.kovarova@litomerice.cz",
+            "funkce": "sociální pracovník OSPOD",
+            "dulezitost": null,
+            "cislo_mistnosti": "D04.30",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "04",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Kozáková",
+            "jmeno": "Renata",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916524",
+            "email": "renata.kozakova@litomerice.cz",
+            "funkce": "referent registru silničních vozidel",
+            "dulezitost": null,
+            "cislo_mistnosti": "E04.19",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "04",
+                "mistnost": "19"
+            }
+        },
+        {
+            "prijmeni": "Králik",
+            "jmeno": "Ivan",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Městská policie",
+            "tel_cislo": "+420416733044",
+            "email": "kralik.ivan@litomerice.cz",
+            "funkce": "velitel MěP",
+            "dulezitost": null,
+            "cislo_mistnosti": "C04.19",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "04",
+                "mistnost": "19"
+            }
+        },
+        {
+            "prijmeni": "Krejčová",
+            "jmeno": "Rút",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Stavební úřad",
+            "tel_cislo": "+420416916136",
+            "email": "rut.krejcova@litomerice.cz",
+            "funkce": "stavebně správní referent",
+            "dulezitost": null,
+            "cislo_mistnosti": "F02.25",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "02",
+                "mistnost": "25"
+            }
+        },
+        {
+            "prijmeni": "Krist",
+            "jmeno": "Josef",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správy nemovitého majetku města",
+            "tel_cislo": "+420416916155",
+            "email": "josef.krist@litomerice.cz",
+            "funkce": "bytový technik ",
+            "dulezitost": null,
+            "cislo_mistnosti": "D04.15",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "04",
+                "mistnost": "15"
+            }
+        },
+        {
+            "prijmeni": "Křenová",
+            "jmeno": "Pavla",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Stavební úřad",
+            "tel_cislo": "+420416916132",
+            "email": "pavla.krenova@litomerice.cz",
+            "funkce": "stavebně správní referent",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.19",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "19"
+            }
+        },
+        {
+            "prijmeni": "Kříž",
+            "jmeno": "Michal",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor územního rozvoje",
+            "tel_cislo": "+420416916160",
+            "email": "michal.kriz@litomerice.cz",
+            "funkce": "územní plánování",
+            "dulezitost": null,
+            "cislo_mistnosti": "E02.25",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "02",
+                "mistnost": "25"
+            }
+        },
+        {
+            "prijmeni": "Kubátová",
+            "jmeno": "Věra",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor životního prostředí",
+            "tel_cislo": "+420416916270",
+            "email": "vera.kubatova@litomerice.cz",
+            "funkce": "administrativa odboru + rybářské lístky",
+            "dulezitost": null,
+            "cislo_mistnosti": "E04.13",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "04",
+                "mistnost": "13"
+            }
+        },
+        {
+            "prijmeni": "Kubíková ",
+            "jmeno": "Denisa",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor komunikace, marketingu a cestovního ruchu",
+            "tel_cislo": "+420416916440",
+            "email": "denisa.kubikova@litomerice.cz",
+            "funkce": "referentka infocentra",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.13",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "13"
+            }
+        },
+        {
+            "prijmeni": "Kühnová",
+            "jmeno": "Jana",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916118",
+            "email": "jana.kuhnova@litomerice.cz",
+            "funkce": "hospodářka",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.12",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "12"
+            }
+        },
+        {
+            "prijmeni": "Kuchařová",
+            "jmeno": "Jana",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor územního rozvoje",
+            "tel_cislo": "+420416916166",
+            "email": "jana.kucharova@litomerice.cz",
+            "funkce": "zábory , majetkový správce",
+            "dulezitost": null,
+            "cislo_mistnosti": "E01.27",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "01",
+                "mistnost": "27"
+            }
+        },
+        {
+            "prijmeni": "Kuchařová",
+            "jmeno": "Lenka",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916510",
+            "email": "lenka.kucharova@litomerice.cz",
+            "funkce": "vedoucí oddělení silničního hospodářství, zástupce vedoucího odboru",
+            "dulezitost": null,
+            "cislo_mistnosti": "D04.27",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "04",
+                "mistnost": "27"
+            }
+        },
+        {
+            "prijmeni": "Lachman",
+            "jmeno": "Jaroslav",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916119",
+            "email": "jaroslav.lachman@litomerice.cz",
+            "funkce": "vedoucí odboru",
+            "dulezitost": null,
+            "cislo_mistnosti": "E01.16",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "01",
+                "mistnost": "16"
+            }
+        },
+        {
+            "prijmeni": "Landa",
+            "jmeno": "Josef",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916512",
+            "email": "josef.landa@litomerice.cz",
+            "funkce": "referent silničního hospodářství – technik",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.27",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "27"
+            }
+        },
+        {
+            "prijmeni": "Ledvinka",
+            "jmeno": "Petr",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916514",
+            "email": "petr.ledvinka@litomerice.cz",
+            "funkce": "přestupky v dopravě",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.26",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "26"
+            }
+        },
+        {
+            "prijmeni": "Ledvinka",
+            "jmeno": "Petr",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Obecní živnostenský úřad",
+            "tel_cislo": "+420416916193",
+            "email": "p.ledvinka@litomerice.cz",
+            "funkce": "referent správních činností",
+            "dulezitost": null,
+            "cislo_mistnosti": "E04.18",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "04",
+                "mistnost": "18"
+            }
+        },
+        {
+            "prijmeni": "Leník",
+            "jmeno": "Petr",
+            "titul_pred": "Mgr.",
+            "titul_za": null,
+            "odbor": "Útvar Zdravého města",
+            "tel_cislo": "+420416916447",
+            "email": "petr.lenik@litomerice.cz",
+            "funkce": "koordinátor Zdravého města Litoměřice",
+            "dulezitost": null,
+            "cislo_mistnosti": "E04.03",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "04",
+                "mistnost": "03"
+            }
+        },
+        {
+            "prijmeni": "Lepšík",
+            "jmeno": "Jiří",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916221",
+            "email": "jiri.lepsik@litomerice.cz",
+            "funkce": "správce budov, řidič",
+            "dulezitost": null,
+            "cislo_mistnosti": "D03.30",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "03",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Lepšíková",
+            "jmeno": "Šárka",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor územního rozvoje",
+            "tel_cislo": "+420416916167",
+            "email": "sarka.lepsikova@litomerice.cz",
+            "funkce": "hospodaření, administrativa",
+            "dulezitost": null,
+            "cislo_mistnosti": "E04.20",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "04",
+                "mistnost": "20"
+            }
+        },
+        {
+            "prijmeni": "Letafka",
+            "jmeno": "Miroslav",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Útvar obrany a krizového řízení",
+            "tel_cislo": "+420416916301",
+            "email": "miroslav.letafka@litomerice.cz",
+            "funkce": "referent krizového řízení",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.24",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "24"
+            }
+        },
+        {
+            "prijmeni": "Löffelmann",
+            "jmeno": "Aleš",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916230",
+            "email": "ales.loffelmann@litomerice.cz",
+            "funkce": "referent státní správy a samosprávy - veřejný opatrovník",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.07",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "07"
+            }
+        },
+        {
+            "prijmeni": "Löwy",
+            "jmeno": "Radek",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Vedení města",
+            "tel_cislo": "+420416916109",
+            "email": "radek.lowy@litomerice.cz",
+            "funkce": "starosta",
+            "dulezitost": null,
+            "cislo_mistnosti": "E01.21",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "01",
+                "mistnost": "21"
+            }
+        },
+        {
+            "prijmeni": "Malá",
+            "jmeno": "Vladimíra",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Kancelář starosty a tajemníka",
+            "tel_cislo": "+420416916306",
+            "email": "vladimira.mala@litomerice.cz",
+            "funkce": "referent vymáhání pohledávek",
+            "dulezitost": null,
+            "cislo_mistnosti": "D04.30",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "04",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Marková",
+            "jmeno": "Tereza",
+            "titul_pred": "Mgr.",
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916426",
+            "email": "tereza.markova@litomerice.cz",
+            "funkce": "sociální pracovník - kurátor pro dospělé",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.29",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "29"
+            }
+        },
+        {
+            "prijmeni": "Markrt",
+            "jmeno": "Pavel",
+            "titul_pred": null,
+            "titul_za": "DiS.",
+            "odbor": "Odbor správy nemovitého majetku města",
+            "tel_cislo": "+420416916159",
+            "email": "pavel.markrt@litomerice.cz",
+            "funkce": "účetní ÚSN",
+            "dulezitost": null,
+            "cislo_mistnosti": "D02.24",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "02",
+                "mistnost": "24"
+            }
+        },
+        {
+            "prijmeni": "Maximiliánová ",
+            "jmeno": "Jitka ",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor komunikace, marketingu a cestovního ruchu",
+            "tel_cislo": "+420416916440",
+            "email": "jitka.maximilianova@litomerice.cz",
+            "funkce": "pracovník informačního centra ",
+            "dulezitost": null,
+            "cislo_mistnosti": "B04.30",
+            "lokace": {
+                "budova": "B",
+                "podlazi": "04",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Mayerová",
+            "jmeno": "Markéta",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916328",
+            "email": "marketa.mayerova@litomerice.cz",
+            "funkce": "sociální pracovnice OSPOD",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.15",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "15"
+            }
+        },
+        {
+            "prijmeni": "Melen",
+            "jmeno": "Michal",
+            "titul_pred": null,
+            "titul_za": "DiS.",
+            "odbor": "Obecní živnostenský úřad",
+            "tel_cislo": "+420416916191",
+            "email": "michal.melen@litomerice.cz",
+            "funkce": "referent registrace",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.09",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "09"
+            }
+        },
+        {
+            "prijmeni": "Miko",
+            "jmeno": "Dominik",
+            "titul_pred": "Ing. arch.",
+            "titul_za": null,
+            "odbor": "Stavební úřad",
+            "tel_cislo": "+420416916139",
+            "email": "dominik.miko@litomerice.cz",
+            "funkce": "vedoucí odboru",
+            "dulezitost": null,
+            "cislo_mistnosti": "C01.24",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "01",
+                "mistnost": "24"
+            }
+        },
+        {
+            "prijmeni": "Mikšová",
+            "jmeno": "Pavlína",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916425",
+            "email": "pavlina.miksova@litomerice.cz",
+            "funkce": "sociální pracovník OSPOD",
+            "dulezitost": null,
+            "cislo_mistnosti": "C01.18",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "01",
+                "mistnost": "18"
+            }
+        },
+        {
+            "prijmeni": "Mohauptová",
+            "jmeno": "Alena",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916222",
+            "email": "alena.mohauptova@litomerice.cz",
+            "funkce": " sociální pracovník",
+            "dulezitost": null,
+            "cislo_mistnosti": "E03.20",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "03",
+                "mistnost": "20"
+            }
+        },
+        {
+            "prijmeni": "Moščicová",
+            "jmeno": "Klára",
+            "titul_pred": "Mgr.",
+            "titul_za": null,
+            "odbor": "Odbor školství, kultury, sportu a památkové péče",
+            "tel_cislo": "+420416916189",
+            "email": "klara.moscicova@litomerice.cz",
+            "funkce": "vedoucí odboru",
+            "dulezitost": null,
+            "cislo_mistnosti": "E03.30",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "03",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Moučková",
+            "jmeno": "Kateřina",
+            "titul_pred": "Mgr.",
+            "titul_za": null,
+            "odbor": "Útvar kontroly a interního auditu",
+            "tel_cislo": "+420416916348",
+            "email": "katerina.mouckova@litomerice.cz",
+            "funkce": "interní audit, kontrola",
+            "dulezitost": null,
+            "cislo_mistnosti": "C03.04",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "03",
+                "mistnost": "04"
+            }
+        },
+        {
+            "prijmeni": "Müllerová",
+            "jmeno": "Vladimíra",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor životního prostředí",
+            "tel_cislo": "+420416916176",
+            "email": "vladimira.mullerova@litomerice.cz",
+            "funkce": "referent ochrany ZPF",
+            "dulezitost": null,
+            "cislo_mistnosti": "F02.28",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "02",
+                "mistnost": "28"
+            }
+        },
+        {
+            "prijmeni": "Mynařík",
+            "jmeno": "Petr",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916506",
+            "email": "petr.mynarik@litomerice.cz",
+            "funkce": "zkušební komisař, evidence dopravců TAXI, stanice měření emisí",
+            "dulezitost": null,
+            "cislo_mistnosti": "C04.13",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "04",
+                "mistnost": "13"
+            }
+        },
+        {
+            "prijmeni": "Mynaříková",
+            "jmeno": "Jana ",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916532",
+            "email": "jana.mynarikova@litomerice.cz",
+            "funkce": "matrikářka",
+            "dulezitost": null,
+            "cislo_mistnosti": "B04.25",
+            "lokace": {
+                "budova": "B",
+                "podlazi": "04",
+                "mistnost": "25"
+            }
+        },
+        {
+            "prijmeni": "Myšková",
+            "jmeno": "Markéta",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor životního prostředí",
+            "tel_cislo": "+420416916271",
+            "email": "marketa.myskova@litomerice.cz",
+            "funkce": "referent státní správy ochrany ovzduší",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.13",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "13"
+            }
+        },
+        {
+            "prijmeni": "Nademlejnská",
+            "jmeno": "Libuše",
+            "titul_pred": "Bc.",
+            "titul_za": "DiS.",
+            "odbor": "Obecní živnostenský úřad",
+            "tel_cislo": "+420416916190",
+            "email": "libuse.nademlejnska@litomerice.cz",
+            "funkce": "referent registrace",
+            "dulezitost": null,
+            "cislo_mistnosti": "C02.23",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "02",
+                "mistnost": "23"
+            }
+        },
+        {
+            "prijmeni": "Nebeská",
+            "jmeno": "Tereza",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916227",
+            "email": "tereza.nebeska@litomerice.cz",
+            "funkce": "referent státní správy a samosprávy - komunitní plánování",
+            "dulezitost": null,
+            "cislo_mistnosti": "D02.30",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "02",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Nováková",
+            "jmeno": "Milena",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916318",
+            "email": "milena.novakova@litomerice.cz",
+            "funkce": "vedoucí oddělení správních činností",
+            "dulezitost": null,
+            "cislo_mistnosti": "E04.24",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "04",
+                "mistnost": "24"
+            }
+        },
+        {
+            "prijmeni": "Nováková",
+            "jmeno": "Olga",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916505",
+            "email": "olga.novakova@litomerice.cz",
+            "funkce": "referent registru silničních vozidel",
+            "dulezitost": null,
+            "cislo_mistnosti": "E03.26",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "03",
+                "mistnost": "26"
+            }
+        },
+        {
+            "prijmeni": "Nováková ",
+            "jmeno": "Natálie ",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor komunikace, marketingu a cestovního ruchu",
+            "tel_cislo": "+420416916440",
+            "email": "natalie.novakova@litomerice.cz",
+            "funkce": "referent infocentra",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.17",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "17"
+            }
+        },
+        {
+            "prijmeni": "Novotná",
+            "jmeno": "Erika",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916392",
+            "email": "erika.novotna@litomerice.cz",
+            "funkce": "CzechPOINT",
+            "dulezitost": null,
+            "cislo_mistnosti": "B03.29",
+            "lokace": {
+                "budova": "B",
+                "podlazi": "03",
+                "mistnost": "29"
+            }
+        },
+        {
+            "prijmeni": "Novotná",
+            "jmeno": "Jiřina",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916504",
+            "email": "jirina.novotna@litomerice.cz",
+            "funkce": "referent registru řidičů",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.13",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "13"
+            }
+        },
+        {
+            "prijmeni": "Ouborná",
+            "jmeno": "Marie ",
+            "titul_pred": "Mgr.",
+            "titul_za": null,
+            "odbor": "Odbor komunikace, marketingu a cestovního ruchu",
+            "tel_cislo": "+420416916541",
+            "email": "marie.ouborna@litomerice.cz",
+            "funkce": "marketingová manažerka ",
+            "dulezitost": null,
+            "cislo_mistnosti": "E04.29",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "04",
+                "mistnost": "29"
+            }
+        },
+        {
+            "prijmeni": "Panaš",
+            "jmeno": "Petr",
+            "titul_pred": "Mgr.",
+            "titul_za": null,
+            "odbor": "Vedení města",
+            "tel_cislo": "+420416916308",
+            "email": "petr.panas@litomerice.cz",
+            "funkce": "3. místostarosta",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.26",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "26"
+            }
+        },
+        {
+            "prijmeni": "Pařezová",
+            "jmeno": "Pavla",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916319",
+            "email": "pavla.parezova@litomerice.cz",
+            "funkce": "referent občanských průkazů, cestovních dokladů, evidence obyvatel",
+            "dulezitost": null,
+            "cislo_mistnosti": "D04.12",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "04",
+                "mistnost": "12"
+            }
+        },
+        {
+            "prijmeni": "Pavlasová",
+            "jmeno": "Jana",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor životního prostředí",
+            "tel_cislo": "+420416916272",
+            "email": "jana.pavlasova@litomerice.cz",
+            "funkce": "referent státní správy vodního hospodářství",
+            "dulezitost": null,
+            "cislo_mistnosti": "C04.30",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "04",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Pech",
+            "jmeno": "Přemysl",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor územního rozvoje",
+            "tel_cislo": "+420416916161",
+            "email": "premysl.pech@litomerice.cz",
+            "funkce": "územní plánování",
+            "dulezitost": null,
+            "cislo_mistnosti": "F02.28",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "02",
+                "mistnost": "28"
+            }
+        },
+        {
+            "prijmeni": "Pechová ",
+            "jmeno": "Šárka ",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor komunikace, marketingu a cestovního ruchu",
+            "tel_cislo": "+420416916440",
+            "email": "sarka.pechova@litomerice.cz",
+            "funkce": "referentka infocentra",
+            "dulezitost": null,
+            "cislo_mistnosti": "E03.10",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "03",
+                "mistnost": "10"
+            }
+        },
+        {
+            "prijmeni": "Pěkná",
+            "jmeno": "Šárka",
+            "titul_pred": "Mgr.",
+            "titul_za": null,
+            "odbor": "Útvar kontroly a interního auditu",
+            "tel_cislo": "+420416916347",
+            "email": "sarka.pekna@litomerice.cz",
+            "funkce": "interní audit, kontrola",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.23",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "23"
+            }
+        },
+        {
+            "prijmeni": "Petrusová",
+            "jmeno": "Kateřina",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor územního rozvoje",
+            "tel_cislo": "+420416916122",
+            "email": "katerina.petrusova@litomerice.cz",
+            "funkce": "referent veřejných zakázek a projektový manažer",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.28",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "28"
+            }
+        },
+        {
+            "prijmeni": "Pettingerová",
+            "jmeno": "Ivana",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor územního rozvoje",
+            "tel_cislo": "+420416916168",
+            "email": "ivana.pettingerova@litomerice.cz",
+            "funkce": "referent územního plánování",
+            "dulezitost": null,
+            "cislo_mistnosti": "C03.24",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "03",
+                "mistnost": "24"
+            }
+        },
+        {
+            "prijmeni": "Písková",
+            "jmeno": "Marie",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916325",
+            "email": "marie.piskova@litomerice.cz",
+            "funkce": "sociální pracovnice OSPOD",
+            "dulezitost": null,
+            "cislo_mistnosti": "E03.25",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "03",
+                "mistnost": "25"
+            }
+        },
+        {
+            "prijmeni": "Plzáková",
+            "jmeno": "Petra",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916127",
+            "email": "petra.plzakova@litomerice.cz",
+            "funkce": "veřejný opatrovník, referent státní správy a samosprávy",
+            "dulezitost": null,
+            "cislo_mistnosti": "C02.25",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "02",
+                "mistnost": "25"
+            }
+        },
+        {
+            "prijmeni": "Pojezná",
+            "jmeno": "Brigita",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916422",
+            "email": "brigita.pojezna@litomerice.cz",
+            "funkce": "kurátorka pro děti a mládež",
+            "dulezitost": null,
+            "cislo_mistnosti": "C04.20",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "04",
+                "mistnost": "20"
+            }
+        },
+        {
+            "prijmeni": "Pokorná",
+            "jmeno": "Iva",
+            "titul_pred": "Mgr.",
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916427",
+            "email": "iva.pokorna@litomerice.cz",
+            "funkce": "kurátorka pro děti a mládež",
+            "dulezitost": null,
+            "cislo_mistnosti": "C01.21",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "01",
+                "mistnost": "21"
+            }
+        },
+        {
+            "prijmeni": "Pospíchalová",
+            "jmeno": "Hana",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor školství, kultury, sportu a památkové péče",
+            "tel_cislo": "+420416916182",
+            "email": "hana.pospichalova@litomerice.cz",
+            "funkce": "referent pro státní památkovou péči, granty a dotace pro sport",
+            "dulezitost": null,
+            "cislo_mistnosti": "F02.29",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "02",
+                "mistnost": "29"
+            }
+        },
+        {
+            "prijmeni": "Pošík",
+            "jmeno": "Ladislav",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor územního rozvoje",
+            "tel_cislo": "+420416916165",
+            "email": "ladislav.posik@litomerice.cz",
+            "funkce": "investiční technik",
+            "dulezitost": null,
+            "cislo_mistnosti": "E03.28",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "03",
+                "mistnost": "28"
+            }
+        },
+        {
+            "prijmeni": "Procházková",
+            "jmeno": "Lenka",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správy nemovitého majetku města",
+            "tel_cislo": "+420416916250",
+            "email": "lenka.prochazkova@litomerice.cz",
+            "funkce": "referent hospodaření a administrativy",
+            "dulezitost": null,
+            "cislo_mistnosti": "D03.23",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "03",
+                "mistnost": "23"
+            }
+        },
+        {
+            "prijmeni": "Prochová",
+            "jmeno": "Alena",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916513",
+            "email": "alena.prochova@litomerice.cz",
+            "funkce": "řidičské průkazy",
+            "dulezitost": null,
+            "cislo_mistnosti": "D04.20",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "04",
+                "mistnost": "20"
+            }
+        },
+        {
+            "prijmeni": "Rejfová",
+            "jmeno": "Jana",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916515",
+            "email": "jana.rejfova@litomerice.cz",
+            "funkce": "přestupky v dopravě",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.30",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Richter",
+            "jmeno": "Pavel",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Vedení města",
+            "tel_cislo": "+420416916209",
+            "email": "pavel.richter@litomerice.cz",
+            "funkce": "Tajemník",
+            "dulezitost": null,
+            "cislo_mistnosti": "D03.21",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "03",
+                "mistnost": "21"
+            }
+        },
+        {
+            "prijmeni": "Rothová",
+            "jmeno": "Jana",
+            "titul_pred": "Mgr.",
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916320",
+            "email": "jana.rothova@litomerice.cz",
+            "funkce": "sociální pracovnice OSPOD",
+            "dulezitost": null,
+            "cislo_mistnosti": "C04.09",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "04",
+                "mistnost": "09"
+            }
+        },
+        {
+            "prijmeni": "Rozsypalová ",
+            "jmeno": "Michaela ",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor komunikace, marketingu a cestovního ruchu",
+            "tel_cislo": "+420416916542",
+            "email": "michaela.rozsypalova@litomerice.cz",
+            "funkce": "referent komunikace",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.30",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Rožcová",
+            "jmeno": "Alena",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Vedení města",
+            "tel_cislo": "+420416916108",
+            "email": "alena.rozcova@litomerice.cz",
+            "funkce": "1. místostarosta",
+            "dulezitost": null,
+            "cislo_mistnosti": "F02.29",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "02",
+                "mistnost": "29"
+            }
+        },
+        {
+            "prijmeni": "Růžičková",
+            "jmeno": "Eva",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Obecní živnostenský úřad",
+            "tel_cislo": "+420416916198",
+            "email": "eva.ruzickova@litomerice.cz",
+            "funkce": "referent kontrola",
+            "dulezitost": null,
+            "cislo_mistnosti": "E02.14",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "02",
+                "mistnost": "14"
+            }
+        },
+        {
+            "prijmeni": "Řepíková",
+            "jmeno": "Zlatuše",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor životního prostředí",
+            "tel_cislo": "+420416916174",
+            "email": "zlata.repikova@litomerice.cz",
+            "funkce": "referent státní správy odpadového hospodářství",
+            "dulezitost": null,
+            "cislo_mistnosti": "C01.20",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "01",
+                "mistnost": "20"
+            }
+        },
+        {
+            "prijmeni": "Řídel",
+            "jmeno": "Pavel",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916217",
+            "email": "pavel.ridel@litomerice.cz",
+            "funkce": "správce budov, řidič",
+            "dulezitost": null,
+            "cislo_mistnosti": "D01.30",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "01",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Sabó",
+            "jmeno": "Peter",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916216",
+            "email": "peter.sabo@litomerice.cz",
+            "funkce": "referent občanských průkazů, cestovních dokladů, evidence obyvatel",
+            "dulezitost": null,
+            "cislo_mistnosti": "D04.12",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "04",
+                "mistnost": "12"
+            }
+        },
+        {
+            "prijmeni": "Sedlmayerová",
+            "jmeno": "Šárka ",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916516",
+            "email": "sarka.sedlmayerova@litomerice.cz",
+            "funkce": "referent registru řidičů",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.11",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "11"
+            }
+        },
+        {
+            "prijmeni": "Skokanová",
+            "jmeno": "Lenka ",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor životního prostředí",
+            "tel_cislo": "+420416916173",
+            "email": "lenka .skokanova@litomerice.cz",
+            "funkce": "referent státní správy ochrany přírody a krajiny",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.12",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "12"
+            }
+        },
+        {
+            "prijmeni": "Skoková",
+            "jmeno": "Martina",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Kancelář starosty a tajemníka",
+            "tel_cislo": "+420416916206",
+            "email": "martina.skokova@litomerice.cz",
+            "funkce": "vedoucí odboru",
+            "dulezitost": null,
+            "cislo_mistnosti": "C01.30",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "01",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Smejkal",
+            "jmeno": "Dominik",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor informačních a komunikačních technologií",
+            "tel_cislo": "+420416916413",
+            "email": "dominik.smejkal@litomerice.cz",
+            "funkce": "informatik",
+            "dulezitost": null,
+            "cislo_mistnosti": "D02.04",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "02",
+                "mistnost": "04"
+            }
+        },
+        {
+            "prijmeni": "Smejkalová",
+            "jmeno": "Eliška",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916104",
+            "email": "eliska.smejkalova@litomerice.cz",
+            "funkce": "podatelna",
+            "dulezitost": null,
+            "cislo_mistnosti": "E03.18",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "03",
+                "mistnost": "18"
+            }
+        },
+        {
+            "prijmeni": "Sochová",
+            "jmeno": "Jitka ",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor ekonomický",
+            "tel_cislo": "+420416916239",
+            "email": "jitka.sochova@litomerice.cz",
+            "funkce": "správce daní a poplatků",
+            "dulezitost": null,
+            "cislo_mistnosti": "C04.13",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "04",
+                "mistnost": "13"
+            }
+        },
+        {
+            "prijmeni": "Sochová",
+            "jmeno": "Jana",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916121",
+            "email": "jana.sochova@litomerice.cz",
+            "funkce": "veřejný opatrovník, referent státní správy a samosprávy",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.22",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "22"
+            }
+        },
+        {
+            "prijmeni": "Spálený",
+            "jmeno": "Bohuslav",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916123",
+            "email": "bohuslav.spaleny@litomerice.cz",
+            "funkce": "správce budov, řidič",
+            "dulezitost": null,
+            "cislo_mistnosti": "B04.14",
+            "lokace": {
+                "budova": "B",
+                "podlazi": "04",
+                "mistnost": "14"
+            }
+        },
+        {
+            "prijmeni": "Stanislavová",
+            "jmeno": "Miroslava",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916507",
+            "email": "m.stanislavova@litomerice.cz",
+            "funkce": "přestupky v dopravě",
+            "dulezitost": null,
+            "cislo_mistnosti": "E04.17",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "04",
+                "mistnost": "17"
+            }
+        },
+        {
+            "prijmeni": "Stejskalová",
+            "jmeno": "Šárka",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor ekonomický",
+            "tel_cislo": "+420416916240",
+            "email": "sarka.stejskalova@litomerice.cz",
+            "funkce": "hlavní pokladní",
+            "dulezitost": null,
+            "cislo_mistnosti": "D02.22",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "02",
+                "mistnost": "22"
+            }
+        },
+        {
+            "prijmeni": "Svobodová",
+            "jmeno": "Dana",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor územního rozvoje",
+            "tel_cislo": "+420416916448",
+            "email": "dana.svobodova@litomerice.cz",
+            "funkce": "vedoucí oddělení veřejných zakázek a projektů ",
+            "dulezitost": null,
+            "cislo_mistnosti": "C04.30",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "04",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Svobodová",
+            "jmeno": "Sylva",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916327",
+            "email": "sylva.svobodova@litomerice.cz",
+            "funkce": "náhradní rodinná péče, sociálně právní ochrana dětí",
+            "dulezitost": null,
+            "cislo_mistnosti": "B03.13",
+            "lokace": {
+                "budova": "B",
+                "podlazi": "03",
+                "mistnost": "13"
+            }
+        },
+        {
+            "prijmeni": "Šálková",
+            "jmeno": "Naďa",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916501",
+            "email": "nada.salkova@litomerice.cz",
+            "funkce": "referent registru silničních vozidel",
+            "dulezitost": null,
+            "cislo_mistnosti": "E04.30",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "04",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Šikner",
+            "jmeno": "Daniel",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420724495670",
+            "email": "daniel.sikner@litomerice.cz",
+            "funkce": "řidič - údržbář",
+            "dulezitost": null,
+            "cislo_mistnosti": "C04.20",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "04",
+                "mistnost": "20"
+            }
+        },
+        {
+            "prijmeni": "Šimková",
+            "jmeno": "Eva",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Kancelář starosty a tajemníka",
+            "tel_cislo": "+420416916105",
+            "email": "eva.simkova@litomerice.cz",
+            "funkce": "asistentka starosty a tajemníka",
+            "dulezitost": null,
+            "cislo_mistnosti": "C04.22",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "04",
+                "mistnost": "22"
+            }
+        },
+        {
+            "prijmeni": "Šinfeltová",
+            "jmeno": "Kateřina",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor životního prostředí",
+            "tel_cislo": "+420416916177",
+            "email": "katerina.sinfeltova@litomerice.cz",
+            "funkce": "referent státní správy odpadového hospodářství",
+            "dulezitost": null,
+            "cislo_mistnosti": "F02.16",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "02",
+                "mistnost": "16"
+            }
+        },
+        {
+            "prijmeni": "Škamlová",
+            "jmeno": "Lenka",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor ekonomický",
+            "tel_cislo": "+420416916148",
+            "email": "lenka.skamlova@litomerice.cz",
+            "funkce": "účetní",
+            "dulezitost": null,
+            "cislo_mistnosti": "E03.18",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "03",
+                "mistnost": "18"
+            }
+        },
+        {
+            "prijmeni": "Škrancová",
+            "jmeno": "Marcela",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Obecní živnostenský úřad",
+            "tel_cislo": "+420416916199",
+            "email": "marcela.skrancova@litomerice.cz",
+            "funkce": "vedoucí odboru",
+            "dulezitost": null,
+            "cislo_mistnosti": "E02.17",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "02",
+                "mistnost": "17"
+            }
+        },
+        {
+            "prijmeni": "Šlanhofová",
+            "jmeno": "Veronika",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916517",
+            "email": "veronika.slanhofova@litomerice.cz",
+            "funkce": "přestupky v dopravě",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.12",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "12"
+            }
+        },
+        {
+            "prijmeni": "Šmat",
+            "jmeno": "Jan",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916502",
+            "email": "jan.smat@litomerice.cz",
+            "funkce": "referent registru silničních vozidel - technik",
+            "dulezitost": null,
+            "cislo_mistnosti": "C04.20",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "04",
+                "mistnost": "20"
+            }
+        },
+        {
+            "prijmeni": "Štoková",
+            "jmeno": "Jaroslava",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916313",
+            "email": "jaroslava.stokova@litomerice.cz",
+            "funkce": "referent občanských průkazů, cestovních dokladů, evidence obyvatel",
+            "dulezitost": null,
+            "cislo_mistnosti": "C03.30",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "03",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Švecová",
+            "jmeno": "Jana",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916424",
+            "email": "jana.svecova@litomerice.cz",
+            "funkce": "sociální pracovnice OSPOD",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.28",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "28"
+            }
+        },
+        {
+            "prijmeni": "Švihelová",
+            "jmeno": "Andrea",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Kancelář starosty a tajemníka",
+            "tel_cislo": "+420416916207",
+            "email": "andrea.svihelova@litomerice.cz",
+            "funkce": "referent vymáhání pohledávek",
+            "dulezitost": null,
+            "cislo_mistnosti": "D03.19",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "03",
+                "mistnost": "19"
+            }
+        },
+        {
+            "prijmeni": "Tamáš",
+            "jmeno": "Miroslav",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916219",
+            "email": "miroslav.tamas@litomerice.cz",
+            "funkce": "Vedoucí oddělení vnitřní správy",
+            "dulezitost": null,
+            "cislo_mistnosti": "B04.23",
+            "lokace": {
+                "budova": "B",
+                "podlazi": "04",
+                "mistnost": "23"
+            }
+        },
+        {
+            "prijmeni": "Tlapáková",
+            "jmeno": "Zdena",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor územního rozvoje",
+            "tel_cislo": "+420416916445",
+            "email": "zdena.tlapakova@litomerice.cz",
+            "funkce": "Projektový manažer, inženýring",
+            "dulezitost": null,
+            "cislo_mistnosti": "B04.30",
+            "lokace": {
+                "budova": "B",
+                "podlazi": "04",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Tobiášová",
+            "jmeno": "Hana",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor ekonomický",
+            "tel_cislo": "+420416916443",
+            "email": "hana.tobiasova@litomerice.cz",
+            "funkce": "zástupce vedoucího, rozpočtářka",
+            "dulezitost": null,
+            "cislo_mistnosti": "E04.29",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "04",
+                "mistnost": "29"
+            }
+        },
+        {
+            "prijmeni": "Tovarová",
+            "jmeno": "Dita",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor ekonomický",
+            "tel_cislo": "+420416916146",
+            "email": "dita.tovarova@litomerice.cz",
+            "funkce": "účetní",
+            "dulezitost": null,
+            "cislo_mistnosti": "E03.30",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "03",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Tuček",
+            "jmeno": "Radim",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor komunikace, marketingu a cestovního ruchu",
+            "tel_cislo": "+420416916543",
+            "email": "radim.tucek@litomerice.cz",
+            "funkce": "referent komunikace",
+            "dulezitost": null,
+            "cislo_mistnosti": "F02.17",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "02",
+                "mistnost": "17"
+            }
+        },
+        {
+            "prijmeni": "Tůmová",
+            "jmeno": "Kateřina",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916391",
+            "email": "katerina.tumova@litomerice.cz",
+            "funkce": "CzechPOINT",
+            "dulezitost": null,
+            "cislo_mistnosti": "C01.23",
+            "lokace": {
+                "budova": "C",
+                "podlazi": "01",
+                "mistnost": "23"
+            }
+        },
+        {
+            "prijmeni": "Tym",
+            "jmeno": "Antonín",
+            "titul_pred": "Mgr.",
+            "titul_za": "Ph.D.",
+            "odbor": "Odbor životního prostředí",
+            "tel_cislo": "+420725095137",
+            "email": "antonin.tym@litomerice.cz",
+            "funkce": "Vedoucí projektu SYNERGIS",
+            "dulezitost": null,
+            "cislo_mistnosti": "E04.23",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "04",
+                "mistnost": "23"
+            }
+        },
+        {
+            "prijmeni": "Váchová",
+            "jmeno": "Jana",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Kancelář starosty a tajemníka",
+            "tel_cislo": "+420416916106",
+            "email": "jana.vachova@litomerice.cz",
+            "funkce": "asistentka starosty",
+            "dulezitost": null,
+            "cislo_mistnosti": "E04.17",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "04",
+                "mistnost": "17"
+            }
+        },
+        {
+            "prijmeni": "Valentová",
+            "jmeno": "Marie ",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Stavební úřad",
+            "tel_cislo": "+420416916131",
+            "email": "marie.valentova@litomerice.cz",
+            "funkce": "stavebně správní referent",
+            "dulezitost": null,
+            "cislo_mistnosti": "B04.30",
+            "lokace": {
+                "budova": "B",
+                "podlazi": "04",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Vašutová",
+            "jmeno": "Věra",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916518",
+            "email": "vera.vasutova@litomerice.cz",
+            "funkce": "registr řidičů",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.18",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "18"
+            }
+        },
+        {
+            "prijmeni": "Vavrušková",
+            "jmeno": "Jana",
+            "titul_pred": "Mgr.",
+            "titul_za": null,
+            "odbor": "Kancelář starosty a tajemníka",
+            "tel_cislo": "+420416916210",
+            "email": "jana.vavruskova@litomerice.cz",
+            "funkce": "pověřenec GDPR,  Právník",
+            "dulezitost": null,
+            "cislo_mistnosti": "B04.11",
+            "lokace": {
+                "budova": "B",
+                "podlazi": "04",
+                "mistnost": "11"
+            }
+        },
+        {
+            "prijmeni": "Vejlupková",
+            "jmeno": "Tereza",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor územního rozvoje",
+            "tel_cislo": "+420416916147",
+            "email": "tereza.vejlupkova@litomerice.cz",
+            "funkce": "projektový manažer, inženýring",
+            "dulezitost": null,
+            "cislo_mistnosti": "B04.30",
+            "lokace": {
+                "budova": "B",
+                "podlazi": "04",
+                "mistnost": "30"
+            }
+        },
+        {
+            "prijmeni": "Veselá",
+            "jmeno": "Gabriela",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správy nemovitého majetku města",
+            "tel_cislo": "+420416916151",
+            "email": "gabriela.vesela@litomerice.cz",
+            "funkce": "fakturantka ÚSN",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.18",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "18"
+            }
+        },
+        {
+            "prijmeni": "Viktorinová",
+            "jmeno": "Helena",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916117",
+            "email": "helena.viktorinova@litomerice.cz",
+            "funkce": "administrativa",
+            "dulezitost": null,
+            "cislo_mistnosti": "F02.26",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "02",
+                "mistnost": "26"
+            }
+        },
+        {
+            "prijmeni": "Vlčková",
+            "jmeno": "Kamila",
+            "titul_pred": "Mgr.",
+            "titul_za": null,
+            "odbor": "Odbor sociálních věcí a zdravotnictví",
+            "tel_cislo": "+420416916124",
+            "email": "kamila.vlckova@litomerice.cz",
+            "funkce": "vedoucí oddělení OSPOD",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.25",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "25"
+            }
+        },
+        {
+            "prijmeni": "Vokálová",
+            "jmeno": "Ladislava",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor správní",
+            "tel_cislo": "+420416916102",
+            "email": "ladislava.vokalova@litomerice.cz",
+            "funkce": "podatelna",
+            "dulezitost": null,
+            "cislo_mistnosti": "E04.08",
+            "lokace": {
+                "budova": "E",
+                "podlazi": "04",
+                "mistnost": "08"
+            }
+        },
+        {
+            "prijmeni": "Votrubová",
+            "jmeno": "Šárka",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor ekonomický",
+            "tel_cislo": "+420416916145",
+            "email": "sarka.votrubova@litomerice.cz",
+            "funkce": "účetní",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.26",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "26"
+            }
+        },
+        {
+            "prijmeni": "Zalabáková",
+            "jmeno": "Iveta",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Odbor ekonomický",
+            "tel_cislo": "+420416916149",
+            "email": "iveta.zalabakova@litomerice.cz",
+            "funkce": "vedoucí odboru",
+            "dulezitost": null,
+            "cislo_mistnosti": "D04.26",
+            "lokace": {
+                "budova": "D",
+                "podlazi": "04",
+                "mistnost": "26"
+            }
+        },
+        {
+            "prijmeni": "Zapadlová",
+            "jmeno": "Ivana",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916508",
+            "email": "ivana.zapadlova@litomerice.cz",
+            "funkce": "vedoucí oddělení dopravně správních evidencí",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.26",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "26"
+            }
+        },
+        {
+            "prijmeni": "Zbránková",
+            "jmeno": "Markéta",
+            "titul_pred": "Ing.",
+            "titul_za": null,
+            "odbor": "Obecní živnostenský úřad",
+            "tel_cislo": "+420416916194",
+            "email": "marketa.zbrankova@litomerice.cz",
+            "funkce": "referent kontroly",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.07",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "07"
+            }
+        },
+        {
+            "prijmeni": "Zelená",
+            "jmeno": "Dagmar",
+            "titul_pred": null,
+            "titul_za": null,
+            "odbor": "Odbor školství, kultury, sportu a památkové péče",
+            "tel_cislo": "+420416916181",
+            "email": "dagmar.zelena@litomerice.cz",
+            "funkce": "referent školství pro samosprávu",
+            "dulezitost": null,
+            "cislo_mistnosti": "F03.29",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "03",
+                "mistnost": "29"
+            }
+        },
+        {
+            "prijmeni": "Zemenová",
+            "jmeno": "Petra ",
+            "titul_pred": "Bc.",
+            "titul_za": null,
+            "odbor": "Odbor dopravy a silničního hospodářství",
+            "tel_cislo": "+420416916520",
+            "email": "petra.zemenova@litomerice.cz",
+            "funkce": "přestupky v dopravě",
+            "dulezitost": null,
+            "cislo_mistnosti": "F04.28",
+            "lokace": {
+                "budova": "F",
+                "podlazi": "04",
+                "mistnost": "28"
+            }
+        }
+    ]
+}
